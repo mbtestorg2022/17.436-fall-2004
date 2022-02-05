@@ -4,18 +4,195 @@ title: Calendar
 uid: 907ca3e5-4812-1a8b-f543-62d7d8f1c62e
 ---
 
-| Lec # | TOPICS | KEY DATES |
-| --- | --- | --- |
-| 1 | Introduction | &nbsp; |
-| 2 | Scope and Definitions | &nbsp; |
-| 3 | Sources I: Territoriality, Nationalism and Homelands | &nbsp; |
-| 4 | Sources II: Geography, Resources and the State | &nbsp; |
-| 5 | Revisionism, Expansion and Territorial Conflict | Research proposal due 2 days after lecture 5 |
-| 6 |  {{< br >}}{{< br >}} Anarchy, Power and Territorial Conflict {{< br >}}{{< br >}} Cases: Badme and the Gulf Islands {{< br >}}{{< br >}}  | &nbsp; |
-| 7 |  {{< br >}}{{< br >}} Diversion, Domestic Mobilization and Territorial Conflict {{< br >}}{{< br >}} Case: The Falklands {{< br >}}{{< br >}}  | &nbsp; |
-| 8 | Boundary Management and Territorial Conflict | &nbsp; |
-| 9 |  {{< br >}}{{< br >}} Settlement I: Empirics {{< br >}}{{< br >}} Case: Algeria-Morroco {{< br >}}{{< br >}}  | &nbsp; |
-| 10 | Settlement II: Mechanisms | &nbsp; |
-| 11 | The Future of Territorial Conflict | &nbsp; |
-| 12 | Student Presentations | &nbsp; |
-| 13 | Student Presentations (cont.) | Research paper due 2 days after lecture 13
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+Lec #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Scope and Definitions
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Sources I: Territoriality, Nationalism and Homelands
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Sources II: Geography, Resources and the State
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Revisionism, Expansion and Territorial Conflict
+{{< tdclose >}}
+{{< tdopen >}}
+Research proposal due 2 days after lecture 5
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Anarchy, Power and Territorial Conflict
+
+Cases: Badme and the Gulf Islands
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Diversion, Domestic Mobilization and Territorial Conflict
+
+Case: The Falklands
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Boundary Management and Territorial Conflict
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Settlement I: Empirics
+
+Case: Algeria-Morroco
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Settlement II: Mechanisms
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+The Future of Territorial Conflict
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Student Presentations
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Student Presentations (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+Research paper due 2 days after lecture 13
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
